@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alavimuhammad
+- 👋 Hi, I’m Muhammad Alavi. 
 - 👀 I’m interested in automatin and scripting in information security context. 
 - 🌱 I’m currently learning powershell , Bash script and python . 
 - 💞️ I’m looking to collaborate on security projects written in python , bash or powershell.
